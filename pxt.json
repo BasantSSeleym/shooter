@@ -11,5 +11,6 @@
     ],
     "testFiles": [
         "test.ts"
-    ]
+    ],
+    "preferredEditor": "blocksprj"
 }
